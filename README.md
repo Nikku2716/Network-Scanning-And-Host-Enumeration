@@ -61,7 +61,7 @@ python3 -m pip install --user pipx
 python3 -m pipx ensurepath
 
 # Clone and install
-git clone https://github.com/Nikku2716/ReconX.git
+git clone https://github.com/sh4dowbl4d3/ReconX.git
 cd ReconX
 pipx install .
 ```
