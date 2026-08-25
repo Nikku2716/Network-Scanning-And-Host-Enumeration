@@ -73,7 +73,7 @@ After `pipx ensurepath`, restart your terminal or run `source ~/.bashrc`.
 Installs into the user site-packages directory.
 
 ```bash
-git clone https://github.com/Nikku2716/ReconX.git
+git clone https://github.com/sh4dowbl4d3/ReconX.git
 cd ReconX
 pip install --user .
 ```
@@ -92,7 +92,7 @@ source ~/.bashrc
 #### Option C — editable install (development)
 
 ```bash
-git clone https://github.com/Nikku2716/ReconX.git
+git clone https://github.com/sh4dowbl4d3/ReconX.git
 cd ReconX
 pip install -e .
 ```
